@@ -1,0 +1,4 @@
+interface:
+  display_name: "Padlet Agent"
+  short_description: "Read and publish Padlet board content safely."
+  default_prompt: "Use $padlet-agent to read a Padlet board and add a post."
